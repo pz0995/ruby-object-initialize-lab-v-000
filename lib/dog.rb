@@ -22,4 +22,4 @@ end
 
 
 name = Dog.new("mutt")
-name.breed
+name.breed = mutt
