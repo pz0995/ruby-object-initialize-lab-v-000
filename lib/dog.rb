@@ -16,7 +16,7 @@ end
   def name
     return @name
   end
-  
+
 
 def mutt
   return @breed
@@ -24,4 +24,3 @@ end
 
 
 name = Dog.new(name, "mutt")
-name.breed = mutt
