@@ -21,5 +21,5 @@ end
 
 
 
-name = Dog.new("mutt")
+name = Dog.new(name, "mutt")
 name.breed = mutt
