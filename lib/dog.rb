@@ -8,18 +8,18 @@ end
 def name=(name)
     @name = name
 end
-def name
-  @name
-end
+
   def breed=(breed)
     @breed = breed
   end
 
-  def breed
-    @breed
+  def name
+    return @name
   end
+  
+
 def mutt
-  return breed
+  return @breed
 end
 
 
