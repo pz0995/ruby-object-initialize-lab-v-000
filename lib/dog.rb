@@ -23,4 +23,4 @@ def mutt
 end
 
 
-name = Dog.new(name, "mutt")
+name = Dog.new(name, "Mutt")
