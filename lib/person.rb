@@ -15,4 +15,4 @@ end
 
 
 
-name = Person.new("name")
+name = Person.new("Beyonce")
