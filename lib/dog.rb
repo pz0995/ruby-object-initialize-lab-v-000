@@ -21,5 +21,5 @@ end
 
 
 
-mutt = Dog.new("mutt")
-mutt.breed
+name = Dog.new("mutt")
+name.breed
