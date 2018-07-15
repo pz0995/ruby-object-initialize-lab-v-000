@@ -18,7 +18,9 @@ end
   def breed
     @breed
   end
-
+def mutt
+  return breed
+end
 
 
 name = Dog.new(name, "mutt")
